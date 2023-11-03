@@ -35,7 +35,7 @@ class WebQueryServiceTest {
 	private static final String PAGE2_BODY = "<html>others words</html>";
 	private static final String KEYWORD = "keyword";
 	private static final List<String> RESULT_URLS = Arrays.asList(BASE_URL, PAGE1_URL);
-	private static final int QUERY_COUNT = 0;
+	private static final int QUERY_COUNT = 5;
 	private static final long WAIT_FOR_SEARCH = 100;
 	private static long currentId = 0;
 	
